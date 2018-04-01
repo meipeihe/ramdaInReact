@@ -1,6 +1,9 @@
-## Title
+## Describe
 
 This is react web command app implemented with elegant ramda.
+I take part in a interview and ask me to write this app with react,
+I think the code is beautiful when I use ramda.
+Hope you like it, too.
 
 ## Install
 
